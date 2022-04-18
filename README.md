@@ -5,7 +5,7 @@ Minha parte no API do primeiro semestre de 2022 para avaliação.
 
 
 ##Imagem da tela feita para exibir mensagens cadastradas
-<img scr="https://github.com/Gustavoldp/API2022-1/blob/master/TelaMensagemCadastrada.png">
+<img src="https://github.com/Gustavoldp/API2022-1/blob/master/TelaMensagemCadastrada.png">
 
 
 ##Controller
@@ -47,5 +47,5 @@ public class TelaMensagensCadastradasController {
 
 
 ##Imagem da tela para cadastro de empresas
-<img src="">
+<img src="https://github.com/Gustavoldp/API2022-1/blob/master/TelaCadastroEmpresa.png">
 
